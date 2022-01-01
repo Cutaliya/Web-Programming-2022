@@ -1,0 +1,18 @@
+/* class selector */
+div {
+    display: flex;
+}
+.satu {
+    margin-left: 10px;
+    text-align: 1.5%;
+}
+aside {
+    margin-left: auto;
+    text-align: right;
+}
+.attachment {
+    height: 200px; width: 400px;
+}
+.Certifications {
+    height: 200px; width:400px;
+}
